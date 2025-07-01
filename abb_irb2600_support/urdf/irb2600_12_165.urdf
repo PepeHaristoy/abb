@@ -99,7 +99,6 @@
   </link>
   <link name="link_6">
     <visual>
-      <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
         <mesh filename="package://abb_irb2600_support/meshes/visual/link_6.stl"/>
       </geometry>
@@ -108,7 +107,6 @@
       </material>
     </visual>
     <collision>
-      <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
         <mesh filename="package://abb_irb2600_support/meshes/collision/link_6.stl"/>
       </geometry>
